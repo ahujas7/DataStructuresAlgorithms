@@ -1,1 +1,9 @@
+Arrays
+    - access an item: O(1)
+    - insert or delete at beginning/middle: O(n)
+    - insert (if resizable) or delete at end: O(1)
+
+Linked Lists
+    - access an item: O(n)
+    - insert or delete: O(1)
 
