@@ -7,3 +7,6 @@ Linked Lists
     - access an item: O(n)
     - insert or delete: O(1)
 
+Stacks
+    - access (delete) an item: O(1)
+    - insert or peek: O(1)
